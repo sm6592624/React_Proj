@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400&display=swap");
+
+body {
+  @apply leading-[normal] m-0;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-width: 0;
+  }
+}
+
+@layer utilities {
+  .text-\[transparent\] {
+    color: #1f2a32 !important;
+  }
+}

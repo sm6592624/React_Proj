@@ -1,17 +1,16 @@
-# Getting Started with Create React App
+# Untitled12
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code> with a minimum version of 20.
 
-## Available Scripts
+To preview and run the project on your device:
 
-In the project directory, you can run:
+1. Open project folder in VS Code
+2. Open terminal in VS Code (Ctrl + ` )
+3. Type and execute `npm install`
+4. Type and execute `npm start`
+5. Now open [http://localhost:3000](http://localhost:3000) in your web browser to preview the project
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
+You can see the changes in the browser and they're reloaded as you save your changes.
 You may also see any lint errors in the console.
 
 ### `npm test`
@@ -68,3 +67,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+1. Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+2. In the terminal, run `npm install`
+3. Run `npm start` to view project in browser
+
+>>>>>>> Incoming
